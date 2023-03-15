@@ -1,0 +1,13 @@
+venv
+node_modules
+.env.dev
+.env
+README.md
+package-lock.json
+package.json
+.gitignore
+.serverless
+.gitignore
+.git
+
+

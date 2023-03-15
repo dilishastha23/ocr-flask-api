@@ -1,0 +1,13 @@
+node_modules
+.env.dev
+osd.*
+.serverless
+tesseract-ocr
+__pycache__
+test.py
+serverless.yml
+venv/
+.env
+*.png
+*.jpg
+*.jpeg
